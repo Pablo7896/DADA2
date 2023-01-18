@@ -1,4 +1,4 @@
-# DADA2
+# DADA2/R
 library(dada2); packageVersion("dada2")
 path <- "datos 2" 
 list.files(path)
